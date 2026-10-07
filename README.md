@@ -12,13 +12,13 @@ I build software products, work on applied AI/ML, and help run the MIPT Business
 <img src="assets/alles-card.png" alt="Alles LMS — product engineering illustration" width="100%" />
 <h3>Alles LMS</h3>
 <p><b>CTO · Product &amp; engineering</b></p>
-<p>I built the entire codebase and deployed the platform. I own updates, the change-request process, product discovery, feature prioritisation, and development plans agreed with business stakeholders.</p>
+<p>Built and deployed the full platform. I own updates, product discovery, feature priorities, the roadmap, and the change-request process.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/SilenceOW/cupit2026final-geoanalytics-pipeline"><img src="assets/cupit-card.png" alt="Cup IT 2026 — conceptual building-height modelling illustration" width="100%" /></a>
-<h3>Geospatial machine learning</h3>
-<p><b>Data Scientist / ML Engineer · Team placed 3rd</b></p>
-<p>Our Changellenge Cup IT 2026 team built a unified building-height dataset for Saint Petersburg for the MTS case: cleaning, building matching, height prediction, and validation.</p>
+<h3>Geospatial ML</h3>
+<p><b>Data Scientist / ML Engineer</b><br />Team placed 3rd in the Cup IT 2026 final.</p>
+<p>For the MTS case: a Saint Petersburg building-height dataset built through data cleaning, matching, prediction, and validation.</p>
 <p><a href="https://github.com/SilenceOW/cupit2026final-geoanalytics-pipeline">Pipeline ↗</a> &nbsp; · &nbsp; <a href="https://github.com/SilenceOW/cupit2026final-geoanalytics-visualization">Web visualization ↗</a></p>
 </td>
 </tr>
