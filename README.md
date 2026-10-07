@@ -1,6 +1,6 @@
 <img src="assets/profile-header.png" alt="Andrey Kolesnikov — CTO at Alles LMS, AI/ML R&D at T-Bank, joint MIPT–NES bachelor's student" width="100%" />
 
-I build software products, work on applied AI/ML, and help run the MIPT Business Club.
+I build software products, work on applied AI/ML, and co-founded the MIPT Business Club.
 
 [LinkedIn ↗](https://www.linkedin.com/in/andrei-kolesnikov-mipt/) &nbsp; · &nbsp; [Geoanalytics case ↗](https://github.com/SilenceOW/cupit2026final-geoanalytics-pipeline) &nbsp; · &nbsp; [MIPT Business Club ↗](https://t.me/miptbusinessclub)
 
@@ -48,5 +48,5 @@ I work on an AI adoption strategy for partner acquisition and two AI/ML projects
 **MIPT × New Economic School (NES) · Joint bachelor's programme, 2024–2028**  
 Applied Mathematics and Informatics, with a focus on data analysis in economics.
 
-**MIPT Business Club · Organising team**  
-Technical operations, recruiting the organising team, events, and resident selection. The club has **2,300+ public-channel subscribers** and a resident community of **30 entrepreneurs** whose companies average around **RUB 40 million in annual revenue**.
+**MIPT Business Club · Co-Founder**  
+Technical operations, recruiting the organising team, events, and resident selection. The club has **2,300+ public-channel subscribers** and a resident community of **30 entrepreneurs** whose companies average around **US$470,000 in annual revenue** (approximate USD equivalent, Oct 2026).
